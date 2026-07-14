@@ -121,40 +121,8 @@ Example:
 | 401 Unauthorized | Authentication required |
 | 500 Internal Server Error | Server error |
 
----
 
-## Project Structure
 
-```
-FirstWebAPI
-│
-├── Controllers
-│      └── WeatherForecastController.cs
-│
-├── Program.cs
-│
-├── WeatherForecast.cs
-│
-├── appsettings.json
-│
-└── Properties
-```
-
----
-
-## Configuration Files
-
-### Program.cs
-
-Configures services, controllers, middleware, and Swagger.
-
-### appsettings.json
-
-Stores application configuration settings.
-
-### launchSettings.json
-
-Stores application launch profiles and URLs.
 
 ---
 
