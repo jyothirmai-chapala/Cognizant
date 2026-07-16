@@ -1,4 +1,4 @@
-# Microservices Lab 5
+# Microservices
 # Authentication and Authorization using JWT in ASP.NET Core Web API
 
 ## Aim
