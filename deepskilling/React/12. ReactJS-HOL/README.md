@@ -1,6 +1,6 @@
 # Ticket Booking App - React
 
-## 📌 Project Overview
+##  Project Overview
 
 **Ticket Booking App** is a React-based web application developed as part of a hands-on lab experiment.
 
@@ -15,7 +15,7 @@ In this application:
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 The objectives of this experiment are:
 
@@ -39,7 +39,7 @@ The objectives of this experiment are:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 ticketbookingapp
@@ -59,7 +59,7 @@ ticketbookingapp
 
 ---
 
-# ✈️ Application Description
+#  Application Description
 
 The application contains two different views:
 
@@ -118,7 +118,7 @@ Select Flight: ________
 
 ---
 
-# 🔐 Login and Logout Functionality
+#  Login and Logout Functionality
 
 The application provides login and logout functionality.
 
@@ -137,7 +137,7 @@ The application provides login and logout functionality.
 
 ---
 
-# 📚 Concepts Learned
+#  Concepts Learned
 
 ## 1. Conditional Rendering in React
 
@@ -214,7 +214,7 @@ This improves application performance by rendering only the required component.
 
 ---
 
-# ⚛️ React Hook Used
+#  React Hook Used
 
 ## useState()
 
@@ -258,7 +258,7 @@ Changes the user back to guest state.
 
 ---
 
-# 🔄 Application Flow
+#  Application Flow
 
 ```
               Application Starts
@@ -284,7 +284,7 @@ Changes the user back to guest state.
 
 ---
 
-# 💻 Installation and Execution
+#  Installation and Execution
 
 ## Step 1: Clone Repository
 
@@ -324,7 +324,7 @@ http://localhost:3000
 
 ---
 
-# 🧪 Output Screens
+#  Output Screens
 
 ## Guest Page
 
@@ -345,7 +345,7 @@ Displays:
 
 ---
 
-# 📝 Learning Outcomes
+#  Learning Outcomes
 
 After completing this experiment, I learned:
 
@@ -363,7 +363,7 @@ After completing this experiment, I learned:
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 The application can be improved by adding:
 
@@ -376,7 +376,7 @@ The application can be improved by adding:
 
 ---
 
-# ✅ Conclusion
+#  Conclusion
 
 This hands-on lab helped me understand the concept of **Conditional Rendering in React**.
 
@@ -391,8 +391,4 @@ This experiment provided practical knowledge of building interactive React appli
 
 ---
 
-## Author
 
-**Jyothirmai Chapala**
-
-B.Tech Computer Science (Data Science)
